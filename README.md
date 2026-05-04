@@ -97,3 +97,7 @@ Use package‑disabling features responsibly.
 If something breaks, looks weird, or you have ideas:
 
 Email: batshizkrazy@proton.me
+
+## 📄 License
+All Rights Reserved. See the LICENSE file for details.
+
