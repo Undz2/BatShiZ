@@ -62,6 +62,8 @@ Get the latest APK from the Releases page:
 
 👉 https://github.com/Undz2/BatShiZ/releases
 
+Click Assets to expand if not already open.
+
 Look for the file named:
 
 BatShiZ-(version).apk
