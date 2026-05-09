@@ -59,9 +59,11 @@ Developer / Power‑User Tools
 
 📦 Download
 
-Get the latest APK from the Releases page:
+Get APK from the Releases page or raw for latest build:
 
 👉 https://github.com/Undz2/BatShiZ/releases
+
+https://github.com/Undz2/BatShiZ/raw/refs/heads/main/BatShiZv3.4.3.apk
 
 Click Assets to expand if not already open.
 
