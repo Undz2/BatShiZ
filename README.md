@@ -1,6 +1,6 @@
-NOTE: I WILL BE REMOVING MY CONTENT FROM THIS SITE AS SOON AS THEIR BS MANDATORY 2FA PRIVACY INVASION KICKS IN. EMAIL ME IF YOU WANT TO HOST MY APPS.
+NOTE: I WILL BE REMOVING MY CONTENT FROM THIS GOD FORSAKEN SITE AS SOON AS THEIR BS MANDATORY 2FA PRIVACY INVASION KICKS IN. EMAIL ME IF YOU WANT TO HOST MY APPS.
 
-~BatShiZ~
+BatShiZ
 
 A full Android system toolkit that combines battery analytics, performance testing, network control, app management, terminal tools, and system‑level diagnostics in one place. Fast, clean, and built for people who want deeper control over their device without requiring root.
 Shizuku support is optional, but recommended — when installed, it unlocks ADB‑level elevated commands for advanced operations.
